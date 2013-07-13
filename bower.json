@@ -1,5 +1,5 @@
 {
-  "name": "darlingjs-geometry-module",
+  "name": "darlingjs-geometry",
   "version": "0.7.0",
   "main": [
     "./flatland.js",
